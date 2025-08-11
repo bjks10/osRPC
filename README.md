@@ -36,5 +36,4 @@ The case demonstrated in the Simulation folder contains a simulated population c
 
 Authors
 
-Briana Stephenson, Daniela Sotres-Alvarez, Jianwen Cai
-
+Briana J.K. Stephenson, Daniela Sotres-Alvarez, Martha Daviglus, Ramon A. Durazo-Arvizu, Yasmin Mossavar-Rahmani, Jianwen Cai
